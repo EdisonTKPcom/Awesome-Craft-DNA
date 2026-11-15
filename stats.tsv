@@ -1,0 +1,63 @@
+lh3/bwa	1774	581	GPL-3.0	C	2026-08-07
+lh3/minimap2	2268	483	NOASSERTION	C	2026-05-19
+BenLangmead/bowtie2	814	181	GPL-3.0	C++	2026-11-07
+alexdobin/STAR	2282	555	MIT	C	2025-03-18
+DaehwanKimLab/hisat2	546	132	GPL-3.0	C++	2026-07-31
+broadinstitute/gatk	2012	630	NOASSERTION	Java	2026-11-13
+google/deepvariant	3828	809	BSD-3-Clause	Python	2026-10-26
+freebayes/freebayes	880	278	MIT	C++	2026-09-03
+samtools/bcftools	903	290	NOASSERTION	C	2026-11-13
+samtools/samtools	1977	629	NOASSERTION	C	2026-11-12
+samtools/htslib	957	486	NOASSERTION	C	2026-11-13
+nanoporetech/dorado	887	133	NOASSERTION	C++	2026-09-03
+mikolmogorov/Flye	957	193	NOASSERTION	C	2026-04-03
+nanoporetech/medaka	528	90	NOASSERTION	Python	2026-05-20
+hasindu2008/slow5tools	107	8	MIT	C	2026-08-26
+ablab/spades	972	168	NOASSERTION	C++	2026-10-22
+marbl/canu	707	182	none	C++	2026-10-28
+chhylp123/hifiasm	819	137	MIT	C++	2026-05-31
+nextflow-io/nextflow	3527	823	Apache-2.0	Groovy	2026-11-15
+nf-core/tools	331	270	MIT	Python	2026-11-14
+snakemake/snakemake	2898	680	MIT	Python	2026-11-15
+broadinstitute/cromwell	1084	384	BSD-3-Clause	Scala	2026-11-12
+galaxyproject/galaxy	1898	1189	NOASSERTION	Python	2026-11-15
+igvteam/igv	771	413	MIT	Java	2026-11-12
+GMOD/jbrowse-components	298	90	Apache-2.0	TypeScript	2026-11-15
+ucscGenomeBrowser/kent	279	105	NOASSERTION	C	2026-11-15
+scverse/scanpy	2615	808	BSD-3-Clause	Python	2026-11-13
+satijalab/seurat	2817	1002	NOASSERTION	R	2026-11-09
+COMBINE-lab/salmon	945	192	BSD-3-Clause	Rust	2026-11-14
+pachterlab/kallisto	777	186	BSD-2-Clause	C	2026-07-12
+scverse/scvi-tools	1727	483	BSD-3-Clause	Python	2026-11-15
+google-deepmind/alphafold	14941	2960	Apache-2.0	Python	2026-04-22
+google-deepmind/alphafold3	8778	1403	Apache-2.0	Python	2026-11-13
+aqlaboratory/openfold	3455	702	Apache-2.0	Python	2025-12-16
+Biohub/esm	3024	408	NOASSERTION	Jupyter Notebook	2026-11-09
+RosettaCommons/RoseTTAFold	2278	459	MIT	Python	2024-02-15
+jwohlwend/boltz	4323	923	MIT	Python	2026-05-29
+ArcInstitute/evo2	4325	572	Apache-2.0	Jupyter Notebook	2026-06-19
+instadeepai/nucleotide-transformer	943	102	NOASSERTION	Jupyter Notebook	2026-11-02
+sokrypton/ColabFold	2990	761	MIT	Jupyter Notebook	2026-11-09
+SynBioDex/pySBOL3	52	22	MIT	Python	2026-09-30
+Edinburgh-Genome-Foundry/DnaChisel	283	54	MIT	Python	2025-11-05
+pydna-group/pydna	234	50	NOASSERTION	Python	2026-11-02
+maximilianh/crisporWebsite	92	51	NOASSERTION	C	2026-11-02
+snugel/cas-offinder	108	32	NOASSERTION	C++	2022-08-31
+Profluent-AI/OpenCRISPR	1214	129	none	none	2025-09-26
+TeamErlich/dna-fountain	162	53	GPL-3.0	Cython	2025-07-08
+ntpz870817/Chamaeleo	46	10	MIT	Python	2025-01-13
+Opentrons/opentrons	536	218	Apache-2.0	Python	2026-11-14
+PyLabRobot/pylabrobot	651	232	MIT	Python	2026-11-15
+biopython/biopython	5274	1994	NOASSERTION	Python	2026-11-12
+BioJulia/BioSequences.jl	161	49	MIT	Julia	2026-11-10
+Bioconductor/BiocManager	79	31	none	R	2026-07-30
+scikit-bio/scikit-bio	1261	368	BSD-3-Clause	Python	2026-11-13
+biotite-dev/biotite	985	160	BSD-3-Clause	Python	2026-11-11
+apriha/snps	118	19	BSD-3-Clause	Python	2026-11-15
+PGScatalog/pgsc_calc	180	47	Apache-2.0	Nextflow	2026-11-10
+allelix/allelix	44	3	AGPL-3.0	Python	2026-11-13
+ncbi/sra-tools	1375	281	NOASSERTION	C	2026-11-13
+Ensembl/ensembl-vep	578	191	Apache-2.0	Perl	2026-11-09
+igsr/1000Genomes_data_indexes	47	11	Apache-2.0	none	2019-07-15
+ga4gh/vrs	100	43	Apache-2.0	Jupyter Notebook	2026-11-12
+ga4gh/phenopacket-schema	105	33	BSD-3-Clause	Java	2026-11-06
